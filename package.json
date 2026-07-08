@@ -1,0 +1,21 @@
+{
+  "name": "cealis",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "@tanstack/react-query": "^5.0.0",
+    "axios": "^1.8.0",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.0",
+    "typescript": "^5.7.0"
+  }
+}
