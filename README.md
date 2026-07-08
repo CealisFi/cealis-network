@@ -1,5 +1,7 @@
 # Cealis
 
+Official CA pump.fun : EVxpxLZLy8QpdZYaSU3cBp6mpcBHkiHVuzBYwJsgpump
+
 > **One App. Every On-Chain Market. Discover, Trade, Compete.**
 
 Cealis is an all-in-one trading platform designed for the modern on-chain economy. It brings together token trading, perpetual markets, and market discovery into a unified social experience where traders can explore opportunities, monitor market activity, and compete with the community through one seamless interface.
